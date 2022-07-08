@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Patrimônio Tecnologia LTDA**
 
-- 🌱 I’m currently learning **Flutter and React Native**
+- 🌱 I’m currently learning **Flutter, React Native**
 
 - 📫 How to reach me **daniel.khalil.dkss@gmail.com**
 
