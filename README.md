@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ilha Service Tecnologia**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Flutter, ReactJS**
 
 - 📫 How to reach me **daniel.khalil.dkss@gmail.com**
 
